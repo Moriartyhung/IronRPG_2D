@@ -1,17 +1,27 @@
 # Unity generated folders
-Library/
-Temp/
-Obj/
-Logs/
-UserSettings/
-Builds/
-Build/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
 
-# Visual Studio / Rider / IDE generated files
+# Local source archives and scene backups (runtime assets live in Assets/)
+ExternalAssets/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# IDE generated files
 .vs/
 .idea/
+.vscode/
 *.csproj
 *.sln
+*.suo
+*.tmp
 *.user
 *.userprefs
 *.pidb
@@ -28,7 +38,7 @@ Build/
 *.mdb.meta
 sysinfo.txt
 
-# Crash and memory captures
+# Crash and memory dumps
 *.stackdump
 *.dmp
 *.dump

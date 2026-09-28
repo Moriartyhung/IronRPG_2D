@@ -6,7 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 2dc6ae212cd34be8ae70d9ed1e67f9f8
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 5fda1fd80bf6bcc48a3a5c9069acca84
+  - enabled: 1
     path: Assets/Scenes/VillageScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    guid: 45ee33cc5e29e824c8190fb5be30ec5e
+  - enabled: 1
+    path: Assets/Scenes/PlayerHouseInteriorScene.unity
+    guid: ba6fb95e8a4163d45aea8bcc595c4f0d
+  - enabled: 1
+    path: Assets/Scenes/ChiefHouseInteriorScene.unity
+    guid: 25468c81d2dd3cc449a8aa5a2d5e24ec
+  - enabled: 1
+    path: Assets/Scenes/ForestScene.unity
+    guid: 05add9a56abf2a543bf38278c082131f
+  - enabled: 1
+    path: Assets/Scenes/TavernInteriorScene.unity
+    guid: 49c9790e34db48943846fc5a4a42d1cf
+  - enabled: 1
+    path: Assets/Scenes/WeaponShopInteriorScene.unity
+    guid: 51cd11a1adc207d4bb84f6b9b1ea864b
+  - enabled: 1
+    path: Assets/Scenes/ToCaveScene.unity
+    guid: 5dff135894c52034bb6c8dad35d7e1b8
+  - enabled: 1
+    path: Assets/Scenes/CaveScene.unity
+    guid: c84b3715f7ab2b6489559e8927b91f50
+  m_configObjects: {}
